@@ -2,6 +2,8 @@
 # 🐋 About Me:
 Hi, I am Tan Jing Yu<br><br>I’m a diploma final-year Software Engineering student currently looking for internship opportunities.<br><br>I’d describe myself as a bit of a perfectionist when it comes to learning and coding. I’m not satisfied with just getting code to work; I prefer to dive deep into the concepts until I fully understand what's happening under the hood. This is why I spend a lot of my own time tackling complex topics like low-level programming and modern frameworks that go beyond my standard coursework. I genuinely enjoy the challenge of a difficult problem and find the process of figuring it out incredibly rewarding. When I’m not at my desk, I stay balanced by playing games, listening to music, or heading out for a city walk to clear my head.
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=belugawhale0912&theme=dark)](https://git.io/streak-stats)
+
 ## 🌐 Socials:
 [![LinkedIn|57](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tan-jing-yu/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanjingyu0912@gmail.com) 
 
