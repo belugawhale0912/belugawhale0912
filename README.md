@@ -1,7 +1,7 @@
 <!-- Header banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0db7ed,100:6C63FF&text=Tan%20Jing%20Yu%20%F0%9F%90%8B&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Software%20Engineering%20Student&descSize=18&descAlignY=58" alt="Tan Jing Yu banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0db7ed,100:6C63FF&text=Tan%20Jing%20Yu&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Software%20Engineering%20Student&descSize=18&descAlignY=58" alt="Tan Jing Yu banner" width="100%" />
 
 <a href="https://www.linkedin.com/in/tan-jing-yu/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:tanjingyu0912@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
