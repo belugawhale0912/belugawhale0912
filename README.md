@@ -3,6 +3,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0db7ed,100:6C63FF&text=Tan%20Jing%20Yu&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Software%20Engineering%20Student&descSize=18&descAlignY=58" alt="Tan Jing Yu banner" width="100%" />
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=B8C7FF&center=true&vCenter=true&width=620&lines=Software+Engineer;Full+Stack+Developer)](https://git.io/typing-svg)
+
+
 <a href="https://www.linkedin.com/in/tan-jing-yu/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:tanjingyu0912@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
