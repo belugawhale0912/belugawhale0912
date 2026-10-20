@@ -50,6 +50,10 @@ When I’m not at my desk, I stay balanced by playing games, listening to music,
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=belugawhale0912&theme=dark&hide_border=true&card_width=900" alt="GitHub Streak" width="100%" /></a>
 
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belugawhale0912&layout=compact&langs_count=8&theme=dark&hide_border=true&card_width=1000&hide=html,css" alt="Most Used Languages" />
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0db7ed,100:6C63FF&section=footer" alt="footer wave" width="100%" />
