@@ -1,7 +1,7 @@
 <!-- Header banner -->
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0db7ed,100:6C63FF&text=Tan%20Jing%20Yu&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Software%20Engineering%20Student&descSize=18&descAlignY=58" alt="Tan Jing Yu banner" width="100%" />
+<img src="./assets/coding.gif" width="100%" alt="Coding GIF" /> 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=B8C7FF&center=true&vCenter=true&width=620&lines=Software+Engineer;Full+Stack+Developer)](https://git.io/typing-svg)
 
