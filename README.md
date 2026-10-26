@@ -49,10 +49,10 @@ When I’m not at my desk, I stay balanced by playing games, listening to music,
 <div align="center">
 
 <a href="https://github.com/belugawhale0912">
-  <img src="https://github-readme-stats.vercel.app/api?username=belugawhale0912&show_icons=true&theme=radical&hide_border=true&card_width=1000" alt="Tan Jing Yu's GitHub Stats" width="100%"/>
+  <img src="https://streak-stats.demolab.com?user=belugawhale0912&theme=radical&hide_border=true&card_width=1000" alt="Tan Jing Yu's GitHub Streak" width="100%"/>
 </a>
 <a href="https://github.com/belugawhale0912">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belugawhale0912&layout=compact&langs_count=8&theme=radical&hide_border=true&card_width=1000&hide=html,css" alt="Most Used Languages" width="100%"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=belugawhale0912&layout=compact&langs_count=8&theme=radical&hide_border=true&card_width=1000&hide=html,css" alt="Most Used Languages" width="100%"/>
 </a>
 
 </div>
